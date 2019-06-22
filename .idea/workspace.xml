@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26c2fa69-7985-45d5-a1ae-ae49a7c4e8ce" name="Default" comment="" />
+    <ignored path="f1stats.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alevel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Fallout/dz.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>22</find>
+      <find>20</find>
+      <find>2</find>
+      <find>drivers_pos</find>
+      <find>Фамилия гонщика</find>
+      <find>$drivers_count_all</find>
+      <find>_functions</find>
+      <find>getPersonalStandings</find>
+      <find>111</find>
+      <find>$order</find>
+      <find>$link</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\Projects\f1stats\drivers</dir>
+      <dir>D:\Projects\f1stats</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_countries.php" />
+        <option value="$PROJECT_DIR$/chess.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/tests/array.php" />
+        <option value="$PROJECT_DIR$/chess1cycle.php" />
+        <option value="$PROJECT_DIR$/tests/db.php" />
+        <option value="$PROJECT_DIR$/create_racer.php" />
+        <option value="$PROJECT_DIR$/drivers_position.php" />
+        <option value="$PROJECT_DIR$/tests/test.php" />
+        <option value="$PROJECT_DIR$/111.php" />
+        <option value="$PROJECT_DIR$/create/teams.php" />
+        <option value="$PROJECT_DIR$/create/drivers.php" />
+        <option value="$PROJECT_DIR$/drivers.php" />
+        <option value="$PROJECT_DIR$/add_racer.php" />
+        <option value="$PROJECT_DIR$/view_team.php" />
+        <option value="$PROJECT_DIR$/delete_team.php" />
+        <option value="$PROJECT_DIR$/add_team.php" />
+        <option value="$PROJECT_DIR$/edit_team.php" />
+        <option value="$PROJECT_DIR$/teams.php" />
+        <option value="$PROJECT_DIR$/teams/view_team.php" />
+        <option value="$PROJECT_DIR$/drivers/viev_racer.php" />
+        <option value="$PROJECT_DIR$/drivers/delete_racer.php" />
+        <option value="$PROJECT_DIR$/drivers/view_racer.php" />
+        <option value="$PROJECT_DIR$/teams/delete_team.php" />
+        <option value="$PROJECT_DIR$/_db.php" />
+        <option value="$PROJECT_DIR$/teams/add_team.php" />
+        <option value="$PROJECT_DIR$/_magic_quots_off.php" />
+        <option value="$PROJECT_DIR$/teams/edit_team.php" />
+        <option value="$PROJECT_DIR$/drivers/edit_racer.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/drivers/add_racer.php" />
+        <option value="$PROJECT_DIR$/_finder.php" />
+        <option value="$PROJECT_DIR$/drivers/_driver_table.php" />
+        <option value="$PROJECT_DIR$/helper.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/teams/teams.php" />
+        <option value="$PROJECT_DIR$/Db.php" />
+        <option value="$PROJECT_DIR$/start.php" />
+        <option value="$PROJECT_DIR$/drivers/drivers.php" />
+        <option value="$PROJECT_DIR$/_functions.php" />
+        <option value="$PROJECT_DIR$/Fallout/index.php" />
+        <option value="$PROJECT_DIR$/fizzBuzz.txt" />
+        <option value="$PROJECT_DIR$/Fallout/ddd.php" />
+        <option value="$PROJECT_DIR$/Fallout/test.php" />
+        <option value="$PROJECT_DIR$/alevel.php" />
+        <option value="$PROJECT_DIR$/Fallout/dz.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="139" />
+    <option name="y" value="-8" />
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="f1stats" type="b2602c69:ProjectViewProjectNode" />
+              <item name="f1stats" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="f1stats" type="b2602c69:ProjectViewProjectNode" />
+              <item name="f1stats" type="462c0819:PsiDirectoryNode" />
+              <item name="Fallout" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\f1stats\drivers" />
+      <recent name="D:\Projects\f1stats\teams" />
+      <recent name="D:\Projects\f1stats" />
+      <recent name="D:\Projects\f1stats\create" />
+      <recent name="D:\Projects\f1stats\tests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\f1stats\teams" />
+      <recent name="D:\Projects\f1stats" />
+      <recent name="D:\Projects\f1stats\create" />
+      <recent name="D:\Projects\f1stats\images\flags" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.alevel.php">
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/f1stats/index.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method v="2" />
+    </configuration>
+    <configuration name="alevel.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/alevel.php">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.alevel.php" />
+        <item itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26c2fa69-7985-45d5-a1ae-ae49a7c4e8ce" name="Default" comment="" />
+      <created>1431455888728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1431455888728</updated>
+      <workItem from="1478118346598" duration="1496000" />
+      <workItem from="1489095535816" duration="1538000" />
+      <workItem from="1489098557829" duration="21000" />
+      <workItem from="1489414789233" duration="55000" />
+      <workItem from="1489415355182" duration="164000" />
+      <workItem from="1489423888070" duration="672000" />
+      <workItem from="1489426726643" duration="8132000" />
+      <workItem from="1489438787975" duration="1331000" />
+      <workItem from="1489503792976" duration="47000" />
+      <workItem from="1489504175330" duration="300000" />
+      <workItem from="1489515553529" duration="9000" />
+      <workItem from="1489516597358" duration="473000" />
+      <workItem from="1491236241720" duration="238000" />
+      <workItem from="1491495209335" duration="1755000" />
+      <workItem from="1491849654782" duration="26000" />
+      <workItem from="1492705693521" duration="720000" />
+      <workItem from="1492943653634" duration="692000" />
+      <workItem from="1492956757646" duration="489000" />
+      <workItem from="1493054186444" duration="59000" />
+      <workItem from="1493236075069" duration="152000" />
+      <workItem from="1493238596891" duration="82000" />
+      <workItem from="1493309085606" duration="1730000" />
+      <workItem from="1493316458690" duration="105000" />
+      <workItem from="1493754081494" duration="2868000" />
+      <workItem from="1494265707008" duration="32000" />
+      <workItem from="1494268693439" duration="55000" />
+      <workItem from="1495399999500" duration="737000" />
+      <workItem from="1495469202743" duration="199000" />
+      <workItem from="1496935996837" duration="1119000" />
+      <workItem from="1530821438127" duration="879000" />
+      <workItem from="1534278165043" duration="4000" />
+      <workItem from="1537991083526" duration="1835000" />
+      <workItem from="1548883919146" duration="84000" />
+      <workItem from="1548884236544" duration="45000" />
+      <workItem from="1549135720638" duration="867000" />
+      <workItem from="1558466620717" duration="2906000" />
+      <workItem from="1558727037424" duration="20000" />
+      <workItem from="1559591264695" duration="846000" />
+      <workItem from="1559592132375" duration="6453000" />
+      <workItem from="1559674297842" duration="9118000" />
+      <workItem from="1559855892874" duration="541000" />
+      <workItem from="1559931342075" duration="10727000" />
+      <workItem from="1560010464545" duration="1614000" />
+      <workItem from="1560110771041" duration="11719000" />
+      <workItem from="1560193988477" duration="10490000" />
+      <workItem from="1560205389660" duration="56000" />
+      <workItem from="1560205500739" duration="247000" />
+      <workItem from="1560205901880" duration="2231000" />
+      <workItem from="1560283408136" duration="5535000" />
+      <workItem from="1560374567708" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="97313000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.13272922" />
+      <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.11919315" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32792208" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49938875" weight="0.1655481" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Changes" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50061125" side_tool="true" weight="0.1655481" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Application Servers" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.16774891" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32928804" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/drivers/add_racer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="136" column="14" selection-start-line="136" selection-start-column="14" selection-end-line="136" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teams/add_team.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helper.php" />
+    <entry file="file://$PROJECT_DIR$/chess.php" />
+    <entry file="file://$PROJECT_DIR$/chess1cycle.php" />
+    <entry file="file://$PROJECT_DIR$/drivers_position.php" />
+    <entry file="file://$PROJECT_DIR$/111.php" />
+    <entry file="file://$PROJECT_DIR$/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drivers/_driver_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_magic_quots_off.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drivers/_finder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drivers/drivers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="20" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+          <folding>
+            <marker date="1555178493133" expanded="true" signature="1059:1097" ph="SELECT COUNT... drivers" />
+            <marker date="1555178493133" expanded="true" signature="2180:2388" ph="SELECT d.*, drivers" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teams/teams.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <marker date="1496936764702" expanded="true" signature="181:209" ph="SELECT COUNT... teams" />
+            <marker date="1496936764702" expanded="true" signature="1168:1371" ph="SELECT t.*, teams" />
+            <marker date="1496936764702" expanded="true" signature="3817:4607" ph="..." />
+            <marker date="1496936764702" expanded="true" signature="4157:4581" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/array.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/db.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/strings.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="873" column="13" lean-forward="true" selection-start-line="873" selection-start-column="9" selection-end-line="873" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="868" column="9" selection-start-line="868" selection-start-column="9" selection-end-line="868" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filewrite.txt" />
+    <entry file="file://$PROJECT_DIR$/_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2761">
+          <caret line="337" column="29" selection-start-line="337" selection-start-column="29" selection-end-line="337" selection-end-column="29" />
+          <folding>
+            <marker date="1555179924380" expanded="true" signature="2099:2136" ph="SELECT * FRO... countries" />
+            <marker date="1555179924380" expanded="true" signature="2481:2516" ph="SELECT * FRO... drivers" />
+            <marker date="1555179924380" expanded="true" signature="2873:2906" ph="SELECT * FRO... teams" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileread.txt" />
+    <entry file="file://$PROJECT_DIR$/Fallout/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fizzBuzzRes.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fizzBuzz.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filewrite2.txt" />
+    <entry file="file://$PROJECT_DIR$/start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fallout/ddd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fallout/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alevel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fallout/dz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
